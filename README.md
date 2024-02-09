@@ -1,2 +1,1 @@
-# 018
-trex demake.
+# C18
